@@ -1,0 +1,81 @@
+*{
+    padding: 0px;
+    margin:0px;
+    box-sizing:border-box;
+}
+#header{
+    height: 100px;
+    width: 100%;
+    background-color: blue;
+
+}
+#header img{
+    float: left;
+    margin: 10px;
+}
+#header #header_1{
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#ffffff;
+}
+#header #header_2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#ffffff;
+}
+#header button{
+    float: right;
+    background-color: rgb(7, 7, 122);
+    margin-top: -70px;
+    margin-right: 20px;
+    color: #ffffff;
+}
+#header #sreach{
+   float:right;
+   background-color: rgb(24, 24, 133);
+   margin-top: -70px;
+   margin-right: 50px;
+   color: #ffffff;
+}
+#header #menu{
+    margin-top:-30px;
+    margin-right: 200px;
+    float: right;
+    overflow: auto;
+    white-space: nowrap;
+  
+}
+#header #menu ul li{
+    background-color: #518eff;
+    color: #ffffff;
+    font-weight: bold;
+    display: inline-block;
+    text-decoration: none;
+    margin-right: 10px;
+    padding: 14px;
+    text-align: center;
+
+}
+#header #menu ul li:hover{
+    background-color: #29ff89;
+}
+#Acticle #text_s{
+   margin: 30px 10px;
+}
+#Acticle #text_s1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #bb2929;
+    text-shadow: 4px 1px #29ff89;
+    margin: 10px 10px;
+    text-decoration: blink;
+}
+#Acticle #input_box .input_contact{
+    margin: 10px 10px;
+    display: inline-block;
+    clear: both;
+}
+
+#Acticle #input_box .input_contact .iContact{
+    width: 100px;
+    height: 30px;
+    background-color: #dadada;
+}

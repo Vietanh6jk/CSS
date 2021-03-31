@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+header{
+    width: 80%;
+    height: 100px;
+    text-align: center;
+    background-color: #ff750f;
+    border: 1px solid #333;
+}
+section{
+    width: 80%;
+    height: 300px;
+    background-color: #ff750f;
+    border: 1px solid #333;
+}
+footer{
+
+    width: 80%;
+    height: 100px;
+    text-align: center;
+    background-color: #ff750f;
+    border: 1px solid #333;
+    
+}

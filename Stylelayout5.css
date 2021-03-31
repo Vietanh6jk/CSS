@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+header{
+    width: 70%;
+    height: 20px;
+    text-align: center;
+    background-color: #1dff08;
+    border: 1px solid #333;
+}
+nav{
+
+    width: 70%;
+    height: 20px; 
+    background: rgb(4, 255, 25);
+    border: 1px solid #333;
+}
+
+section{
+    width: 70%;
+    height: 300px; 
+    background: rgb(1, 255, 1);
+    padding: 20px;
+    border: 1px solid #333;
+
+}
+article{
+    width: 60%;
+    height: 150px; 
+    background: rgb(255, 89, 89);
+    padding: 20px;
+    border: 1px solid #333;
+}
+footer{
+    width: 70%;
+    height: 20px;
+    text-align: center;
+    background-color: #2bff00;
+    border: 1px solid #333;
+}
